@@ -1,1 +1,2 @@
-# Bootstrap_proj1
+# HTML & CSS BOOTSTRAP PROJECT
+## This project developed using HTML & CSS Bootstrap 
